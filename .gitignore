@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+case_study_outputs/
+Case_Study_4_Environmental_Sustainability.csv
+.DS_Store
